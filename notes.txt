@@ -1,0 +1,4 @@
+Why did they use a useEffect? Couldn't they have coded this before the render() , or is it
+because there is no render()? in which case they have to use a function inside a function so they 
+made it easy by using useEffect, which gives us some added functionality than just having a function
+inside a function.
